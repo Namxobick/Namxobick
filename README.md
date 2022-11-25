@@ -1,6 +1,6 @@
 [![Header](https://github.com/Namxobick/Namxobick/blob/main/assets/header.png)](https://t.me/Namxobick)
 
-## I'm a student Lobachevsky University (Direction of training:  software engineering).
+## I'm a student Lobachevsky University (direction of training:  software engineering).
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-00121d?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
