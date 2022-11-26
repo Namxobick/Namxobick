@@ -9,4 +9,3 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-00121d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Namxobick)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-00121d?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/namxobick)
-[![Icloud](https://img.shields.io/badge/-Icloud-00121d?style=for-the-badge&logo=Icloud&logoColor=4F7DB3)](andreyyurin@icloud.com)
