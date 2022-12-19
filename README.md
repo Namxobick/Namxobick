@@ -9,3 +9,4 @@
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-00121d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Namxobick)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-00121d?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/namxobick)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-00121d?style=for-the-badge&logo=codeforces&logoColor=4F7DB3)](https://codeforces.com/profile/Namxobick)
