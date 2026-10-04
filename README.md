@@ -1,4 +1,4 @@
-[![Header](https://github.com/Namxobick/Namxobick/blob/main/assets/header.png)](https://bitcodersnn.github.io/)
+[![Header](https://github.com/Namxobick/Namxobick/blob/main/assets/header.png)](https://namxobick.github.io)
 
 ## I'm a student of Lobachevsky University (direction of training:  software engineering).
 
@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/-Python-00121d?style=for-the-badge&logo=python&logoColor=FFD638)](https://github.com/Namxobick/unn-python-2022)
 
 ### Projects:
-[![CV](https://img.shields.io/badge/-bitcoders-00121d?style=for-the-badge&logo=github)](https://bitcodersnn.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00121d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://namxobick.github.io)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-00121d?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Namxobick)
